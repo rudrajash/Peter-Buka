@@ -1,18 +1,19 @@
 body {
-text-align:center;
+    text-align: center;
     background-image: url(https://th.bing.com/th/id/R.15bd839334a6632df0de646db75c53de?rik=voqJlJnygol3gA&riu=http%3a%2f%2frainbow.chard.org%2fwp-uploads%2f2012%2f08%2fPiano_Keys.jpg&ehk=UnDdvLuDvo%2fG7l4b7FoWSlOFylvOBm6YdXLTikanbaY%3d&risl=1&pid=ImgRaw&r=0)
-        
 }
+
 .menu {
-    top:15px;
+    top: 15px;
     top: 10px;
     right: 30px;
-    position:absolute;
+    position: absolute;
     cursor: pointer;
 }
+
 .links {
     float: right;
-    color:firebrick;
+    color: firebrick;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 9px;
@@ -20,10 +21,29 @@ text-align:center;
     font-family: fantasy;
     font-size: 25px;
 }
+
 .link: hover {
     background-color: darkorange;
     text-underline-position: below;
 }
+
 #pk {
     color: aliceblue;
 }
+
+#g {
+    color: red;
+}
+
+#g1 {
+    color: red;
+}
+
+#g2 {
+    color: red;
+}
+
+#g3 {
+    color: red;
+}
+
